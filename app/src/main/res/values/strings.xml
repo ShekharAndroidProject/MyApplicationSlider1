@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GEMPLEX</string>
+    <string name="music"><u><b>Music</b></u></string>
+    <string name="album"><u><b>Album</b></u></string>
+</resources>
